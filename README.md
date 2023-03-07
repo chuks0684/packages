@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  **<span style="color:green">Landmark Technologies.</span>**
 ### **<span style="color:green">Contacts: +1437 215 2483<br> WebSite : <http://mylandmarktech.com/></span>**
 ### **Email: mylandmarktech@gmail.com**
@@ -99,3 +100,6 @@ kubeadm join 172.31.10.12:6443 --token cdm6fo.dhbrxyleqe5suy6e \
 
 
 
+=======
+# packages
+>>>>>>> 3e53838 (Initial commit)
